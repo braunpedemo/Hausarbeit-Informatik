@@ -6,6 +6,8 @@
 
 ## Die Entwicklung der Röhren-Computer 
 
+Der ENIAC war ein Rechner mit Röhren-Technologie.
+
 ## Die Entwicklung der Transistoren
 
 ## Die Entwicklung der Integrierten Schaltkreise
